@@ -1,0 +1,3 @@
+singing [78]
+go to sleep [9]
+do homework [7]
