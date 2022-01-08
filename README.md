@@ -1,9 +1,11 @@
 ## Usage
+```
 -> Fork the project
 -> make sure you have gcc compiler installed in your machine
 -> run
     $ gcc ./task.c -o task
 -> Play around with following commands
+```
 
 ### 1. Help
 
